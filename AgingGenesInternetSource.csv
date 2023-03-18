@@ -1,0 +1,52 @@
+Gene,Protein,MainPhysiologicalRole,ChangewithAgeorAbnormility
+APOE,Apolipoprotein E,"Odulation of cholesterol balance, Aggregability of platelets, Proliferation of lymphocytes",Pathogenesis of atherosclerosis and in Alzheimer’s disease
+P53,Tumor protein p53,"Tumor suppression, Transcription activation, ",Cancer
+SIRT1,Sirtuin 1 protein,"Metabolism and energy homeostasis, DNA damage response","Aging, cancer, Slow lipid metabolism"
+DAF-16,FOXO1 transcription factor,Transcription factor,"Cell cycle arrest, apoptosis"
+CHRNA3,Cholinergic receptor nicotinic alpha 3 subunit,"Response to foreign materials such as nicotine and alcohol, Nervous system","Addiction to alcohol/cocaine, Decline in nerve response"
+SH2B3,SH2B adaptor protein 3,Multifunctional adopter protein,"Cancer, age dependent Insulin resistance"
+CDKN2A,Cyclin dependent kinase inhibitor 2A,Cell cycle control,"Diabetes type 2, obesity, adipose tissue browning, cardiac dystrophy"
+ELOVL2,Elongation of very-long-chain fatty acids-like 2,"DHA (Docosahexaenoic acid) synthesis, lipid storage",Glucolipotoxicity-induced apoptosis
+WRN,Werner protein,"DNA protection against oxidative stress damage, genome stability","Premature aging disease, cataracts, atherosclerosis, osteoporosis, and cancer"
+PON1,Paraoxonase 1,Detoxifies Hcy-thiolactone in human blood and reduces chances of atherosclerosis,Cardiovascular disease
+SOD2,Superoxide dismutase 2,"Fights against oxidative stress, ROS scavenger","Alzeimer’s disease, diabetes, cardiac complications"
+LMNA,Lamin A protein,"Regulation of antioxidant associated genes, Impaired protein dysregulation, Cardiomyocites function",Accelerated aging process
+CETP,Cholesteryl ester transfer protein,Lipoprotein metabolism,Cardiovascular diseases
+APOC3,Apolipoprotein C3,"Lipid transport, Glucose metabolism, Neuronal signaling","Insulin resistance, Coronary artery calcium and AD"
+MTP,Microsomal triglyceride transfer protein,"Multifunctional protein, cholesterol synthesis, lipd transport, lipid and lipoprotein homeostasis",Metabolic diseases
+PIK3CA,Phosphatidylinositol 3-kinase (PI3K).,Neuronal differentiation and survival,Cancer
+DAF-2,Insulin-like growth factor 1 (IGF-1) receptor,Anabolic and mitogenic activity,Cancer
+PIMT,Protein-L-isoaspartyl methyltransferase,Intrecellular signal transduction,Fatal epilepsy
+GH1,Growth hormone,"Growth and development, Interaction with insulin-like growth factor","Aging, Chronic kidney disease"
+KLOTHO,Protein alpha-klotho,"Aging suppression, Organ protection, Phosphate homeostasis, Vascular physiology","Chronic kidney and vascular disease,"
+CREB,cAMP-response element binding protein,"Neuronal protection, plasticity and memory, Triglyceride metabolism",Alzheimer’s disease
+MAPK,Mitogen-activated protein kinase,"Multiple physiological functions, Innate immune response, Stress signaling","Alzheimer’s disease, Parkinson’s disease, Cardiac hypertrophy"
+EGFR,epidermal growth factor receptor,"Nervous system physiology, Actin remodeling in sperm capacitation",Cancer
+NF-kB,Nuclear factor kappa B,"Immune response modulator/activator, Depression","Coronary artery disease, Cancer and immune diseases"
+PLC-?,Phospholipase C beta,"Signal transduction, Brain activity, Breast cancer suppression",Neurodegenerative disease; metastasis
+MSR-A,Methionine sulfoxide reductase A,"Repair of of oxidized methionine in proteins, Protects against oxidative stress","Neurodegenerative diseases, cystic fibrosis, neurological disorders, cancer"
+MEMO1,Mediator of cell motility 1,"Cell migration (neuronal cells), Organismal development, Central nervous system","Cancer, Neurological disorders"
+NEIL1,Nei like DNA Ggycosylase 1,"Neurogenesis, DNA repair, Neuronal protection against oxidative stress",Alzheimer’s disease
+PPAR?2,Peroxisome proliferator-activated receptor gamma 2,"Adipogenesis, Lipid metabolism",Cardiovascular diseases
+EIF3K,Eukaryotic translation initiation factor 3 subunit K,Regulation of apoptosis in C. elegans,Lifespan extension in C. elegans
+ATM,ATM serine/threonine kinase,Cellular response to genotoxic stress,"Lymphoid malignancies, Coronary artery disease"
+BCL2,B-cell lymphoma 2,"Multiple functions, neuronal activity, autophagy, calcium homeostasis","Huntington’s disease, Chronic obstructive pulmonary disease"
+CDC42,Cell division cycle 42,Regulation of mammary gland functioning,"Genomic instability, Aging"
+DGAT1,Diacylglycerol O -acyltransferase 1,"Triglyceride metabolism, Promote LDL levels",Congenital diarrheal disorder
+EGR1,Early growth response 1,Complex response to stress,Cancer
+FGF23,Fibroblast growth factor 23,Phosphate and vitamin D metabolism,Chronic kidney disease
+FGF21,Fibroblast growth factor 21,lipolysis in adipose tissue,Cardiovascular disease
+FN3KRP,Fructosamine 3 kinase related protein,"Cell maintenance and viability, Longevity of lifespan",'
+PGP,Phosphoglycolate phosphatase,Intermediary metabolism,Cardiometabolic diseases
+IRS1,Insulin receptor substrate 1,Insulin signaling,"Coronary artery disease, Tau pathology in alzheimer’s disease"
+BMI1,Polycomb complex protein BMI-1,"Gene silencing, Regulation of chromatin structure, Cellular bioenergetics, DNA damage response",Hematologic malignancies
+NRG-1,Neuregulin 1,"Signaling in the cardiovascular system, Maintenance of muscle spindles",Schizophrenia
+STAT,Signal transducer and activator of transcription,"Multiple roles, Cell signaling","Autoimmune diseases, Cancers"
+E2F1,E2F Transcription Factor 1,"Innate immune response, Regulation of metabolism",Cancers
+VEGF-A,Vascular endothelial growth factor A,Cell signale transduction,Cancers
+XME,Xenobiotic metabolizing enzymes,Breakdown of xenobiotic substances,'
+MYC,Myc proto-oncogene protein,"Maintains regular physiology, Tissue repair, Placenta development, Immune response",Cancer
+CXCR4,C-X-C chemokine receptor type 4,Bone marrow physiology,Cancer
+SIR-2,Silent information regulator 2,"Extends lifespan in Drosophila, Human cardiac contractile, Suppress neurodegeneration","Neurodegenerative disease, Cardiac failure"
+ERK,Extracellular signal-regulated kinase,Cell signaling,Leukemia
+SLC31,',Copper transporters,"Immune dysfunction, Multiple diseases"
